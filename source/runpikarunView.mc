@@ -9,10 +9,14 @@ class runpikarunView extends WatchUi.WatchFace {
     var pikaAnimation; // AnimationLayer extends Layer
     var _animationDelegate = null;
     var _playing;
+    var bolt_bmp;
+    var heart_bmp;
 
     function initialize() {
         WatchFace.initialize();
         _animationDelegate = new RunningPikachuController();
+        bolt_bmp = Application.loadResource(Rez.Drawables.bolt) as BitmapResource;
+        heart_bmp = Application.loadResource(Rez.Drawables.heart) as BitmapResource;
     }
 
     // Load your resources here
@@ -59,6 +63,9 @@ class runpikarunView extends WatchUi.WatchFace {
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
         dc.drawText(width / 2, height / 2, Graphics.FONT_NUMBER_MEDIUM, timeString,
             Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
+
+        dc.drawBitmap(0, 0, bolt_bmp);
+        dc.drawBitmap(50, 0, heart_bmp);
     }
 
     // Update the view
