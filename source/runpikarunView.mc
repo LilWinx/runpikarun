@@ -3,6 +3,8 @@ import Toybox.Graphics;
 import Toybox.Lang;
 import Toybox.System;
 import Toybox.WatchUi;
+import Toybox.Activity;
+
 
 class runpikarunView extends WatchUi.WatchFace {
 
@@ -48,6 +50,30 @@ class runpikarunView extends WatchUi.WatchFace {
 
         return Lang.format("$1$:$2$", [hour, clockTime.min.format("%02d")]);
     }
+    // get Date
+    private function getDate() {
+        var date = Time.Gregorian.info(Time.now(),0);
+        var day = date.day;
+        var month = date.month;
+        var month_str = Time.Gregorian.info(Time.now(), Time.FORMAT_MEDIUM).month;
+        return day.toString() + " " + month_str.toUpper().substring(0,3);
+    }
+    // get HR 
+    private function getHeartRate() {
+        var activity = Activity.getActivityInfo();
+        var heartrate = activity.currentHeartRate;
+        if (heartrate == null) {
+            return "ded";
+        }
+        return heartrate.toNumber();
+    }
+
+    // get Battery 
+    private function getBatteryPercentage() {
+        var stats = System.getSystemStats();
+        var batteryRaw = stats.battery;
+        return batteryRaw > batteryRaw.toNumber() ? (batteryRaw + 1).toNumber() : batteryRaw.toNumber() + "%";
+    }
 
     // Function to render the time on the time layer
     private function updateTimeLayer() {
@@ -59,13 +85,31 @@ class runpikarunView extends WatchUi.WatchFace {
         var timeString = getTimeString();
         dc.setColor(Graphics.COLOR_TRANSPARENT, Graphics.COLOR_TRANSPARENT);
         dc.clear();
-        // Draw the time in the middle
+
+        // Draw the time in the bottom
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
-        dc.drawText(width / 2, height / 2, Graphics.FONT_NUMBER_MEDIUM, timeString,
+        dc.drawText(width / 2, (height / 2) + 120, Graphics.FONT_NUMBER_MEDIUM, timeString,
+            Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
+        
+        // Draw the date above Pikachu
+        var dateString = getDate();
+        dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
+        dc.drawText(width / 2, (height / 2) - 120, Graphics.FONT_SMALL, dateString,
             Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
 
-        dc.drawBitmap(0, 0, bolt_bmp);
-        dc.drawBitmap(50, 0, heart_bmp);
+        // Draw the Battery Percentage on the sides
+        dc.drawBitmap((width / 6) - 20, (height / 2) + 25, bolt_bmp);
+        var batteryString = getBatteryPercentage();
+        dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
+        dc.drawText((width / 6), (height / 2) + 70, Graphics.FONT_TINY, batteryString,
+            Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
+
+        // Draw the Heart Rate on the other side
+        dc.drawBitmap((5 * width / 6) - 20, (height / 2) + 25, heart_bmp);
+        var hrString = getHeartRate();
+        dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
+        dc.drawText((5 * width / 6) - 5, (height / 2) + 70, Graphics.FONT_TINY, hrString,
+            Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
     }
 
     // Update the view

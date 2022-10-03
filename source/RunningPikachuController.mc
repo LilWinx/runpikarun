@@ -40,12 +40,12 @@ class RunningPikachuController {
     private function buildTextLayer() {
         var info = System.getDeviceSettings();
         // Word aligning the width and height for better blits
-        var width = (info.screenWidth * .60).toNumber() & ~0x3;
-        var height = info.screenHeight * .25;
+        var width = info.screenWidth.toNumber() & ~0x3;
+        var height = info.screenHeight;
 
         var options = {
-            :locX => ( (info.screenWidth - width) / 2 ).toNumber() & ~0x03,
-            :locY => (info.screenHeight - height),
+            :locX => 0,
+            :locY => 0,
             :width => width,
             :height => height,
             :visibility=>true
