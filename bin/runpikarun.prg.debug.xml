@@ -295,7 +295,7 @@
 <entry endPc="268438085" name="textLayer" stackId="5" startPc="268437935"/>
 <entry endPc="268438085" name="info" stackId="1" startPc="268437935"/>
 <entry endPc="268438581" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268438368"/>
-<entry endPc="268438581" name="rez_cmp_local_custom_drawable_15986787325374585060" stackId="2" startPc="268438368"/>
+<entry endPc="268438581" name="rez_cmp_local_custom_drawable_92952193112302347647" stackId="2" startPc="268438368"/>
 <entry arg="true" endPc="268438582" name="dc" stackId="1" startPc="268438356"/>
 </localVars>
 <annotations>
