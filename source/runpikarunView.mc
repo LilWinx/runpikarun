@@ -13,12 +13,14 @@ class runpikarunView extends WatchUi.WatchFace {
     var _playing;
     var bolt_bmp;
     var heart_bmp;
+    var steps_bmp;
 
     function initialize() {
         WatchFace.initialize();
         _animationDelegate = new RunningPikachuController();
         bolt_bmp = Application.loadResource(Rez.Drawables.bolt) as BitmapResource;
         heart_bmp = Application.loadResource(Rez.Drawables.heart) as BitmapResource;
+        steps_bmp = Application.loadResource(Rez.Drawables.steps) as BitmapResource;
     }
 
     // Load your resources here
@@ -56,7 +58,9 @@ class runpikarunView extends WatchUi.WatchFace {
         var day = date.day;
         var month = date.month;
         var month_str = Time.Gregorian.info(Time.now(), Time.FORMAT_MEDIUM).month;
-        return day.toString() + " " + month_str.toUpper().substring(0,3);
+        var dayofweek_str = Time.Gregorian.info(Time.now(), Time.FORMAT_MEDIUM);
+        var dayofweek = dayofweek_str.day_of_week;
+        return dayofweek.toString() + " " + day.toString() + " " + month_str.substring(0,3);
     }
     // get HR 
     private function getHeartRate() {
@@ -73,6 +77,12 @@ class runpikarunView extends WatchUi.WatchFace {
         var stats = System.getSystemStats();
         var batteryRaw = stats.battery;
         return batteryRaw > batteryRaw.toNumber() ? (batteryRaw + 1).toNumber() : batteryRaw.toNumber() + "%";
+    }
+
+    // get Steps
+    private function getSteps() {
+        var info = ActivityMonitor.getInfo();
+        return info.steps.toString();
     }
 
     // Function to render the time on the time layer
@@ -95,6 +105,13 @@ class runpikarunView extends WatchUi.WatchFace {
         var dateString = getDate();
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
         dc.drawText(width / 2, (height / 2) - 120, Graphics.FONT_SMALL, dateString,
+            Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
+
+        // Draw the steps and step counter
+        dc.drawBitmap((width / 2) - 70, (height / 2) - 100, steps_bmp);
+        var stepString = getSteps();
+        dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
+        dc.drawText((width / 2) - 25, (height / 2) - 85, Graphics.FONT_TINY, stepString,
             Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
 
         // Draw the Battery Percentage on the sides

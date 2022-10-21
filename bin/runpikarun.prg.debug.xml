@@ -8,184 +8,197 @@
 <entry filename="/Users/winx/Documents/runpikarun/source/runpikarunBackground.mc" id="2" lineNum="16" parent="globals/Background" pc="268435502" symbol="draw"/>
 <entry filename="/Users/winx/Documents/runpikarun/source/runpikarunBackground.mc" id="2" lineNum="18" parent="globals/Background" pc="268435506" symbol="draw"/>
 <entry filename="/Users/winx/Documents/runpikarun/source/runpikarunBackground.mc" id="2" lineNum="19" parent="globals/Background" pc="268435555" symbol="draw"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunBackground.mc" id="3" lineNum="6" parent="globals/Background" pc="268438286" symbol="&lt;init&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunBackground.mc" id="3" lineNum="6" parent="globals/Background" pc="268438286" symbol="&lt;init&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="5" lineNum="17" parent="globals/runpikarunView" pc="268435568" symbol="initialize"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="5" lineNum="18" parent="globals/runpikarunView" pc="268435572" symbol="initialize"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="5" lineNum="19" parent="globals/runpikarunView" pc="268435590" symbol="initialize"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="5" lineNum="20" parent="globals/runpikarunView" pc="268435620" symbol="initialize"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="5" lineNum="21" parent="globals/runpikarunView" pc="268435663" symbol="initialize"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="6" lineNum="25" parent="globals/runpikarunView" pc="268435707" symbol="onLayout"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="7" lineNum="32" parent="globals/runpikarunView" pc="268435712" symbol="onShow"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="7" lineNum="33" parent="globals/runpikarunView" pc="268435716" symbol="onShow"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="7" lineNum="34" parent="globals/runpikarunView" pc="268435736" symbol="onShow"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="8" lineNum="38" parent="globals/runpikarunView" pc="268435755" symbol="&lt;globals/runpikarunView/&lt;&gt;getTimeString&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="8" lineNum="39" parent="globals/runpikarunView" pc="268435759" symbol="&lt;globals/runpikarunView/&lt;&gt;getTimeString&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="8" lineNum="40" parent="globals/runpikarunView" pc="268435776" symbol="&lt;globals/runpikarunView/&lt;&gt;getTimeString&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="8" lineNum="42" parent="globals/runpikarunView" pc="268435793" symbol="&lt;globals/runpikarunView/&lt;&gt;getTimeString&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="8" lineNum="44" parent="globals/runpikarunView" pc="268435803" symbol="&lt;globals/runpikarunView/&lt;&gt;getTimeString&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="8" lineNum="45" parent="globals/runpikarunView" pc="268435815" symbol="&lt;globals/runpikarunView/&lt;&gt;getTimeString&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="8" lineNum="46" parent="globals/runpikarunView" pc="268435831" symbol="&lt;globals/runpikarunView/&lt;&gt;getTimeString&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="8" lineNum="47" parent="globals/runpikarunView" pc="268435842" symbol="&lt;globals/runpikarunView/&lt;&gt;getTimeString&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="8" lineNum="51" parent="globals/runpikarunView" pc="268435855" symbol="&lt;globals/runpikarunView/&lt;&gt;getTimeString&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="9" lineNum="54" parent="globals/runpikarunView" pc="268435923" symbol="&lt;globals/runpikarunView/&lt;&gt;getDate&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="9" lineNum="55" parent="globals/runpikarunView" pc="268435927" symbol="&lt;globals/runpikarunView/&lt;&gt;getDate&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="9" lineNum="56" parent="globals/runpikarunView" pc="268435974" symbol="&lt;globals/runpikarunView/&lt;&gt;getDate&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="9" lineNum="57" parent="globals/runpikarunView" pc="268435984" symbol="&lt;globals/runpikarunView/&lt;&gt;getDate&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="9" lineNum="58" parent="globals/runpikarunView" pc="268435994" symbol="&lt;globals/runpikarunView/&lt;&gt;getDate&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="9" lineNum="59" parent="globals/runpikarunView" pc="268436056" symbol="&lt;globals/runpikarunView/&lt;&gt;getDate&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="10" lineNum="62" parent="globals/runpikarunView" pc="268436106" symbol="&lt;globals/runpikarunView/&lt;&gt;getHeartRate&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="10" lineNum="63" parent="globals/runpikarunView" pc="268436110" symbol="&lt;globals/runpikarunView/&lt;&gt;getHeartRate&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="10" lineNum="64" parent="globals/runpikarunView" pc="268436127" symbol="&lt;globals/runpikarunView/&lt;&gt;getHeartRate&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="10" lineNum="65" parent="globals/runpikarunView" pc="268436137" symbol="&lt;globals/runpikarunView/&lt;&gt;getHeartRate&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="10" lineNum="66" parent="globals/runpikarunView" pc="268436144" symbol="&lt;globals/runpikarunView/&lt;&gt;getHeartRate&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="10" lineNum="68" parent="globals/runpikarunView" pc="268436153" symbol="&lt;globals/runpikarunView/&lt;&gt;getHeartRate&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="11" lineNum="72" parent="globals/runpikarunView" pc="268436166" symbol="&lt;globals/runpikarunView/&lt;&gt;getBatteryPercentage&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="11" lineNum="73" parent="globals/runpikarunView" pc="268436170" symbol="&lt;globals/runpikarunView/&lt;&gt;getBatteryPercentage&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="11" lineNum="74" parent="globals/runpikarunView" pc="268436187" symbol="&lt;globals/runpikarunView/&lt;&gt;getBatteryPercentage&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="11" lineNum="75" parent="globals/runpikarunView" pc="268436197" symbol="&lt;globals/runpikarunView/&lt;&gt;getBatteryPercentage&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="12" lineNum="79" parent="globals/runpikarunView" pc="268436253" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="12" lineNum="80" parent="globals/runpikarunView" pc="268436257" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="12" lineNum="81" parent="globals/runpikarunView" pc="268436285" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="12" lineNum="82" parent="globals/runpikarunView" pc="268436298" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="12" lineNum="85" parent="globals/runpikarunView" pc="268436311" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="12" lineNum="86" parent="globals/runpikarunView" pc="268436324" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="12" lineNum="87" parent="globals/runpikarunView" pc="268436360" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="12" lineNum="90" parent="globals/runpikarunView" pc="268436372" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="12" lineNum="91" parent="globals/runpikarunView" pc="268436408" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="12" lineNum="95" parent="globals/runpikarunView" pc="268436481" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="12" lineNum="96" parent="globals/runpikarunView" pc="268436494" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="12" lineNum="97" parent="globals/runpikarunView" pc="268436530" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="12" lineNum="101" parent="globals/runpikarunView" pc="268436603" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="12" lineNum="102" parent="globals/runpikarunView" pc="268436651" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="12" lineNum="103" parent="globals/runpikarunView" pc="268436664" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="12" lineNum="104" parent="globals/runpikarunView" pc="268436700" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="12" lineNum="108" parent="globals/runpikarunView" pc="268436773" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="12" lineNum="109" parent="globals/runpikarunView" pc="268436827" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="12" lineNum="110" parent="globals/runpikarunView" pc="268436840" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="12" lineNum="111" parent="globals/runpikarunView" pc="268436876" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="116" parent="globals/runpikarunView" pc="268436962" symbol="onUpdate"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="118" parent="globals/runpikarunView" pc="268436966" symbol="onUpdate"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="119" parent="globals/runpikarunView" pc="268437002" symbol="onUpdate"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="121" parent="globals/runpikarunView" pc="268437014" symbol="onUpdate"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="122" parent="globals/runpikarunView" pc="268437026" symbol="onUpdate"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="14" lineNum="128" parent="globals/runpikarunView" pc="268437028" symbol="onHide"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="14" lineNum="129" parent="globals/runpikarunView" pc="268437032" symbol="onHide"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="15" lineNum="133" parent="globals/runpikarunView" pc="268437053" symbol="onExitSleep"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="15" lineNum="134" parent="globals/runpikarunView" pc="268437057" symbol="onExitSleep"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="16" lineNum="138" parent="globals/runpikarunView" pc="268437076" symbol="onEnterSleep"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="16" lineNum="139" parent="globals/runpikarunView" pc="268437080" symbol="onEnterSleep"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="17" lineNum="9" parent="globals/runpikarunView" pc="268438305" symbol="&lt;init&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="17" lineNum="9" parent="globals/runpikarunView" pc="268438305" symbol="&lt;init&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunApp.mc" id="19" lineNum="7" parent="globals/runpikarunApp" pc="268437099" symbol="initialize"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunApp.mc" id="19" lineNum="8" parent="globals/runpikarunApp" pc="268437103" symbol="initialize"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunApp.mc" id="20" lineNum="12" parent="globals/runpikarunApp" pc="268437122" symbol="onStart"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunApp.mc" id="21" lineNum="16" parent="globals/runpikarunApp" pc="268437127" symbol="onStop"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunApp.mc" id="22" lineNum="20" parent="globals/runpikarunApp" pc="268437132" symbol="getInitialView"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunApp.mc" id="22" lineNum="21" parent="globals/runpikarunApp" pc="268437136" symbol="getInitialView"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunApp.mc" id="23" lineNum="25" parent="globals/runpikarunApp" pc="268437174" symbol="onSettingsChanged"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunApp.mc" id="23" lineNum="26" parent="globals/runpikarunApp" pc="268437178" symbol="onSettingsChanged"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunApp.mc" id="24" lineNum="5" parent="globals/runpikarunApp" pc="268438267" symbol="&lt;init&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunApp.mc" id="24" lineNum="5" parent="globals/runpikarunApp" pc="268438267" symbol="&lt;init&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunApp.mc" id="25" lineNum="31" parent="globals" pc="268437195" symbol="getApp"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunApp.mc" id="25" lineNum="32" parent="globals" pc="268437207" symbol="getApp"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuDelegate.mc" id="27" lineNum="9" parent="globals/RunningPikachuDelegate" pc="268437224" symbol="initialize"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuDelegate.mc" id="27" lineNum="10" parent="globals/RunningPikachuDelegate" pc="268437228" symbol="initialize"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuDelegate.mc" id="28" lineNum="13" parent="globals/RunningPikachuDelegate" pc="268437247" symbol="setController"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuDelegate.mc" id="28" lineNum="14" parent="globals/RunningPikachuDelegate" pc="268437251" symbol="setController"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuDelegate.mc" id="29" lineNum="18" parent="globals/RunningPikachuDelegate" pc="268437262" symbol="onAnimationEvent"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuDelegate.mc" id="29" lineNum="19" parent="globals/RunningPikachuDelegate" pc="268437266" symbol="onAnimationEvent"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuDelegate.mc" id="29" lineNum="21" parent="globals/RunningPikachuDelegate" pc="268437333" symbol="onAnimationEvent"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuDelegate.mc" id="29" lineNum="22" parent="globals/RunningPikachuDelegate" pc="268437351" symbol="onAnimationEvent"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuDelegate.mc" id="29" lineNum="24" parent="globals/RunningPikachuDelegate" pc="268437354" symbol="onAnimationEvent"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuDelegate.mc" id="29" lineNum="25" parent="globals/RunningPikachuDelegate" pc="268437372" symbol="onAnimationEvent"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuDelegate.mc" id="30" lineNum="5" parent="globals/RunningPikachuDelegate" pc="268438248" symbol="&lt;init&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuDelegate.mc" id="30" lineNum="5" parent="globals/RunningPikachuDelegate" pc="268438248" symbol="&lt;init&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="32" lineNum="9" parent="globals/RunningPikachuController" pc="268437376" symbol="initialize"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="32" lineNum="10" parent="globals/RunningPikachuController" pc="268437380" symbol="initialize"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="33" lineNum="13" parent="globals/RunningPikachuController" pc="268437391" symbol="handleOnShow"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="33" lineNum="14" parent="globals/RunningPikachuController" pc="268437395" symbol="handleOnShow"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="33" lineNum="16" parent="globals/RunningPikachuController" pc="268437411" symbol="handleOnShow"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="33" lineNum="25" parent="globals/RunningPikachuController" pc="268437497" symbol="handleOnShow"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="33" lineNum="27" parent="globals/RunningPikachuController" pc="268437516" symbol="handleOnShow"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="33" lineNum="28" parent="globals/RunningPikachuController" pc="268437536" symbol="handleOnShow"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="34" lineNum="33" parent="globals/RunningPikachuController" pc="268437560" symbol="handleOnHide"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="34" lineNum="34" parent="globals/RunningPikachuController" pc="268437564" symbol="handleOnHide"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="34" lineNum="35" parent="globals/RunningPikachuController" pc="268437576" symbol="handleOnHide"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="34" lineNum="36" parent="globals/RunningPikachuController" pc="268437585" symbol="handleOnHide"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="35" lineNum="40" parent="globals/RunningPikachuController" pc="268437595" symbol="&lt;globals/RunningPikachuController/&lt;&gt;buildTextLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="35" lineNum="41" parent="globals/RunningPikachuController" pc="268437599" symbol="&lt;globals/RunningPikachuController/&lt;&gt;buildTextLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="35" lineNum="43" parent="globals/RunningPikachuController" pc="268437618" symbol="&lt;globals/RunningPikachuController/&lt;&gt;buildTextLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="35" lineNum="44" parent="globals/RunningPikachuController" pc="268437643" symbol="&lt;globals/RunningPikachuController/&lt;&gt;buildTextLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="35" lineNum="46" parent="globals/RunningPikachuController" pc="268437653" symbol="&lt;globals/RunningPikachuController/&lt;&gt;buildTextLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="35" lineNum="55" parent="globals/RunningPikachuController" pc="268437717" symbol="&lt;globals/RunningPikachuController/&lt;&gt;buildTextLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="35" lineNum="56" parent="globals/RunningPikachuController" pc="268437747" symbol="&lt;globals/RunningPikachuController/&lt;&gt;buildTextLayer&gt;"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="36" lineNum="59" parent="globals/RunningPikachuController" pc="268437751" symbol="getTextLayer"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="36" lineNum="60" parent="globals/RunningPikachuController" pc="268437755" symbol="getTextLayer"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="37" lineNum="64" parent="globals/RunningPikachuController" pc="268437765" symbol="play"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="37" lineNum="65" parent="globals/RunningPikachuController" pc="268437769" symbol="play"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="37" lineNum="66" parent="globals/RunningPikachuController" pc="268437781" symbol="play"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="37" lineNum="67" parent="globals/RunningPikachuController" pc="268437811" symbol="play"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="37" lineNum="68" parent="globals/RunningPikachuController" pc="268437831" symbol="play"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="37" lineNum="69" parent="globals/RunningPikachuController" pc="268437871" symbol="play"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="38" lineNum="73" parent="globals/RunningPikachuController" pc="268437885" symbol="loop"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="38" lineNum="74" parent="globals/RunningPikachuController" pc="268437889" symbol="loop"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="38" lineNum="75" parent="globals/RunningPikachuController" pc="268437917" symbol="loop"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="38" lineNum="77" parent="globals/RunningPikachuController" pc="268437932" symbol="loop"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="39" lineNum="81" parent="globals/RunningPikachuController" pc="268437973" symbol="stop"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="39" lineNum="82" parent="globals/RunningPikachuController" pc="268437977" symbol="stop"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="39" lineNum="83" parent="globals/RunningPikachuController" pc="268437988" symbol="stop"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="39" lineNum="84" parent="globals/RunningPikachuController" pc="268438006" symbol="stop"/>
-<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="40" lineNum="3" parent="globals/RunningPikachuController" pc="268438354" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="42" lineNum="2" parent="globals/Rez/Drawables" pc="268438348" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="43" lineNum="9" parent="globals/Rez/Fonts" pc="268438350" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="44" lineNum="11" parent="globals/Rez/JsonData" pc="268438352" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="45" lineNum="20" parent="globals/Rez/Layouts" pc="268438020" symbol="WatchFace"/>
-<entry filename="Rez" id="45" lineNum="22" parent="globals/Rez/Layouts" pc="268438032" symbol="WatchFace"/>
-<entry filename="Rez" id="45" lineNum="23" parent="globals/Rez/Layouts" pc="268438056" symbol="WatchFace"/>
-<entry filename="Rez" id="45" lineNum="25" parent="globals/Rez/Layouts" pc="268438219" symbol="WatchFace"/>
-<entry filename="Rez" id="46" lineNum="13" parent="globals/Rez/Layouts" pc="268438351" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="47" lineNum="30" parent="globals/Rez/Menus" pc="268438349" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="48" lineNum="32" parent="globals/Rez/Strings" pc="268438353" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="49" lineNum="1" parent="globals/Rez" pc="268438324" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="49" lineNum="1" parent="globals/Rez" pc="268438324" symbol="&lt;init&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunBackground.mc" id="3" lineNum="6" parent="globals/Background" pc="268438622" symbol="&lt;init&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunBackground.mc" id="3" lineNum="6" parent="globals/Background" pc="268438622" symbol="&lt;init&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="5" lineNum="18" parent="globals/runpikarunView" pc="268435568" symbol="initialize"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="5" lineNum="19" parent="globals/runpikarunView" pc="268435572" symbol="initialize"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="5" lineNum="20" parent="globals/runpikarunView" pc="268435590" symbol="initialize"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="5" lineNum="21" parent="globals/runpikarunView" pc="268435620" symbol="initialize"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="5" lineNum="22" parent="globals/runpikarunView" pc="268435663" symbol="initialize"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="5" lineNum="23" parent="globals/runpikarunView" pc="268435706" symbol="initialize"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="6" lineNum="27" parent="globals/runpikarunView" pc="268435750" symbol="onLayout"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="7" lineNum="34" parent="globals/runpikarunView" pc="268435755" symbol="onShow"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="7" lineNum="35" parent="globals/runpikarunView" pc="268435759" symbol="onShow"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="7" lineNum="36" parent="globals/runpikarunView" pc="268435779" symbol="onShow"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="8" lineNum="40" parent="globals/runpikarunView" pc="268435798" symbol="&lt;globals/runpikarunView/&lt;&gt;getTimeString&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="8" lineNum="41" parent="globals/runpikarunView" pc="268435802" symbol="&lt;globals/runpikarunView/&lt;&gt;getTimeString&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="8" lineNum="42" parent="globals/runpikarunView" pc="268435819" symbol="&lt;globals/runpikarunView/&lt;&gt;getTimeString&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="8" lineNum="44" parent="globals/runpikarunView" pc="268435836" symbol="&lt;globals/runpikarunView/&lt;&gt;getTimeString&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="8" lineNum="46" parent="globals/runpikarunView" pc="268435846" symbol="&lt;globals/runpikarunView/&lt;&gt;getTimeString&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="8" lineNum="47" parent="globals/runpikarunView" pc="268435858" symbol="&lt;globals/runpikarunView/&lt;&gt;getTimeString&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="8" lineNum="48" parent="globals/runpikarunView" pc="268435874" symbol="&lt;globals/runpikarunView/&lt;&gt;getTimeString&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="8" lineNum="49" parent="globals/runpikarunView" pc="268435885" symbol="&lt;globals/runpikarunView/&lt;&gt;getTimeString&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="8" lineNum="53" parent="globals/runpikarunView" pc="268435898" symbol="&lt;globals/runpikarunView/&lt;&gt;getTimeString&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="9" lineNum="56" parent="globals/runpikarunView" pc="268435966" symbol="&lt;globals/runpikarunView/&lt;&gt;getDate&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="9" lineNum="57" parent="globals/runpikarunView" pc="268435970" symbol="&lt;globals/runpikarunView/&lt;&gt;getDate&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="9" lineNum="58" parent="globals/runpikarunView" pc="268436017" symbol="&lt;globals/runpikarunView/&lt;&gt;getDate&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="9" lineNum="59" parent="globals/runpikarunView" pc="268436027" symbol="&lt;globals/runpikarunView/&lt;&gt;getDate&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="9" lineNum="60" parent="globals/runpikarunView" pc="268436037" symbol="&lt;globals/runpikarunView/&lt;&gt;getDate&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="9" lineNum="61" parent="globals/runpikarunView" pc="268436099" symbol="&lt;globals/runpikarunView/&lt;&gt;getDate&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="9" lineNum="62" parent="globals/runpikarunView" pc="268436155" symbol="&lt;globals/runpikarunView/&lt;&gt;getDate&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="9" lineNum="63" parent="globals/runpikarunView" pc="268436165" symbol="&lt;globals/runpikarunView/&lt;&gt;getDate&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="10" lineNum="66" parent="globals/runpikarunView" pc="268436224" symbol="&lt;globals/runpikarunView/&lt;&gt;getHeartRate&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="10" lineNum="67" parent="globals/runpikarunView" pc="268436228" symbol="&lt;globals/runpikarunView/&lt;&gt;getHeartRate&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="10" lineNum="68" parent="globals/runpikarunView" pc="268436245" symbol="&lt;globals/runpikarunView/&lt;&gt;getHeartRate&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="10" lineNum="69" parent="globals/runpikarunView" pc="268436255" symbol="&lt;globals/runpikarunView/&lt;&gt;getHeartRate&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="10" lineNum="70" parent="globals/runpikarunView" pc="268436262" symbol="&lt;globals/runpikarunView/&lt;&gt;getHeartRate&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="10" lineNum="72" parent="globals/runpikarunView" pc="268436271" symbol="&lt;globals/runpikarunView/&lt;&gt;getHeartRate&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="11" lineNum="76" parent="globals/runpikarunView" pc="268436284" symbol="&lt;globals/runpikarunView/&lt;&gt;getBatteryPercentage&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="11" lineNum="77" parent="globals/runpikarunView" pc="268436288" symbol="&lt;globals/runpikarunView/&lt;&gt;getBatteryPercentage&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="11" lineNum="78" parent="globals/runpikarunView" pc="268436305" symbol="&lt;globals/runpikarunView/&lt;&gt;getBatteryPercentage&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="11" lineNum="79" parent="globals/runpikarunView" pc="268436315" symbol="&lt;globals/runpikarunView/&lt;&gt;getBatteryPercentage&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="12" lineNum="83" parent="globals/runpikarunView" pc="268436371" symbol="&lt;globals/runpikarunView/&lt;&gt;getSteps&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="12" lineNum="84" parent="globals/runpikarunView" pc="268436375" symbol="&lt;globals/runpikarunView/&lt;&gt;getSteps&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="12" lineNum="85" parent="globals/runpikarunView" pc="268436394" symbol="&lt;globals/runpikarunView/&lt;&gt;getSteps&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="89" parent="globals/runpikarunView" pc="268436413" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="90" parent="globals/runpikarunView" pc="268436417" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="91" parent="globals/runpikarunView" pc="268436445" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="92" parent="globals/runpikarunView" pc="268436458" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="95" parent="globals/runpikarunView" pc="268436471" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="96" parent="globals/runpikarunView" pc="268436484" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="97" parent="globals/runpikarunView" pc="268436520" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="100" parent="globals/runpikarunView" pc="268436532" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="101" parent="globals/runpikarunView" pc="268436568" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="105" parent="globals/runpikarunView" pc="268436641" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="106" parent="globals/runpikarunView" pc="268436654" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="107" parent="globals/runpikarunView" pc="268436690" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="111" parent="globals/runpikarunView" pc="268436763" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="112" parent="globals/runpikarunView" pc="268436811" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="113" parent="globals/runpikarunView" pc="268436824" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="114" parent="globals/runpikarunView" pc="268436860" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="118" parent="globals/runpikarunView" pc="268436939" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="119" parent="globals/runpikarunView" pc="268436987" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="120" parent="globals/runpikarunView" pc="268437000" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="121" parent="globals/runpikarunView" pc="268437036" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="125" parent="globals/runpikarunView" pc="268437109" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="126" parent="globals/runpikarunView" pc="268437163" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="127" parent="globals/runpikarunView" pc="268437176" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="13" lineNum="128" parent="globals/runpikarunView" pc="268437212" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="14" lineNum="133" parent="globals/runpikarunView" pc="268437298" symbol="onUpdate"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="14" lineNum="135" parent="globals/runpikarunView" pc="268437302" symbol="onUpdate"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="14" lineNum="136" parent="globals/runpikarunView" pc="268437338" symbol="onUpdate"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="14" lineNum="138" parent="globals/runpikarunView" pc="268437350" symbol="onUpdate"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="14" lineNum="139" parent="globals/runpikarunView" pc="268437362" symbol="onUpdate"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="15" lineNum="145" parent="globals/runpikarunView" pc="268437364" symbol="onHide"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="15" lineNum="146" parent="globals/runpikarunView" pc="268437368" symbol="onHide"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="16" lineNum="150" parent="globals/runpikarunView" pc="268437389" symbol="onExitSleep"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="16" lineNum="151" parent="globals/runpikarunView" pc="268437393" symbol="onExitSleep"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="17" lineNum="155" parent="globals/runpikarunView" pc="268437412" symbol="onEnterSleep"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="17" lineNum="156" parent="globals/runpikarunView" pc="268437416" symbol="onEnterSleep"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="18" lineNum="9" parent="globals/runpikarunView" pc="268438641" symbol="&lt;init&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunView.mc" id="18" lineNum="9" parent="globals/runpikarunView" pc="268438641" symbol="&lt;init&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunApp.mc" id="20" lineNum="7" parent="globals/runpikarunApp" pc="268437435" symbol="initialize"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunApp.mc" id="20" lineNum="8" parent="globals/runpikarunApp" pc="268437439" symbol="initialize"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunApp.mc" id="21" lineNum="12" parent="globals/runpikarunApp" pc="268437458" symbol="onStart"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunApp.mc" id="22" lineNum="16" parent="globals/runpikarunApp" pc="268437463" symbol="onStop"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunApp.mc" id="23" lineNum="20" parent="globals/runpikarunApp" pc="268437468" symbol="getInitialView"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunApp.mc" id="23" lineNum="21" parent="globals/runpikarunApp" pc="268437472" symbol="getInitialView"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunApp.mc" id="24" lineNum="25" parent="globals/runpikarunApp" pc="268437510" symbol="onSettingsChanged"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunApp.mc" id="24" lineNum="26" parent="globals/runpikarunApp" pc="268437514" symbol="onSettingsChanged"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunApp.mc" id="25" lineNum="5" parent="globals/runpikarunApp" pc="268438603" symbol="&lt;init&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunApp.mc" id="25" lineNum="5" parent="globals/runpikarunApp" pc="268438603" symbol="&lt;init&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunApp.mc" id="26" lineNum="31" parent="globals" pc="268437531" symbol="getApp"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/runpikarunApp.mc" id="26" lineNum="32" parent="globals" pc="268437543" symbol="getApp"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuDelegate.mc" id="28" lineNum="9" parent="globals/RunningPikachuDelegate" pc="268437560" symbol="initialize"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuDelegate.mc" id="28" lineNum="10" parent="globals/RunningPikachuDelegate" pc="268437564" symbol="initialize"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuDelegate.mc" id="29" lineNum="13" parent="globals/RunningPikachuDelegate" pc="268437583" symbol="setController"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuDelegate.mc" id="29" lineNum="14" parent="globals/RunningPikachuDelegate" pc="268437587" symbol="setController"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuDelegate.mc" id="30" lineNum="18" parent="globals/RunningPikachuDelegate" pc="268437598" symbol="onAnimationEvent"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuDelegate.mc" id="30" lineNum="19" parent="globals/RunningPikachuDelegate" pc="268437602" symbol="onAnimationEvent"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuDelegate.mc" id="30" lineNum="21" parent="globals/RunningPikachuDelegate" pc="268437669" symbol="onAnimationEvent"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuDelegate.mc" id="30" lineNum="22" parent="globals/RunningPikachuDelegate" pc="268437687" symbol="onAnimationEvent"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuDelegate.mc" id="30" lineNum="24" parent="globals/RunningPikachuDelegate" pc="268437690" symbol="onAnimationEvent"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuDelegate.mc" id="30" lineNum="25" parent="globals/RunningPikachuDelegate" pc="268437708" symbol="onAnimationEvent"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuDelegate.mc" id="31" lineNum="5" parent="globals/RunningPikachuDelegate" pc="268438584" symbol="&lt;init&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuDelegate.mc" id="31" lineNum="5" parent="globals/RunningPikachuDelegate" pc="268438584" symbol="&lt;init&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="33" lineNum="9" parent="globals/RunningPikachuController" pc="268437712" symbol="initialize"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="33" lineNum="10" parent="globals/RunningPikachuController" pc="268437716" symbol="initialize"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="34" lineNum="13" parent="globals/RunningPikachuController" pc="268437727" symbol="handleOnShow"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="34" lineNum="14" parent="globals/RunningPikachuController" pc="268437731" symbol="handleOnShow"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="34" lineNum="16" parent="globals/RunningPikachuController" pc="268437747" symbol="handleOnShow"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="34" lineNum="25" parent="globals/RunningPikachuController" pc="268437833" symbol="handleOnShow"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="34" lineNum="27" parent="globals/RunningPikachuController" pc="268437852" symbol="handleOnShow"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="34" lineNum="28" parent="globals/RunningPikachuController" pc="268437872" symbol="handleOnShow"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="35" lineNum="33" parent="globals/RunningPikachuController" pc="268437896" symbol="handleOnHide"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="35" lineNum="34" parent="globals/RunningPikachuController" pc="268437900" symbol="handleOnHide"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="35" lineNum="35" parent="globals/RunningPikachuController" pc="268437912" symbol="handleOnHide"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="35" lineNum="36" parent="globals/RunningPikachuController" pc="268437921" symbol="handleOnHide"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="36" lineNum="40" parent="globals/RunningPikachuController" pc="268437931" symbol="&lt;globals/RunningPikachuController/&lt;&gt;buildTextLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="36" lineNum="41" parent="globals/RunningPikachuController" pc="268437935" symbol="&lt;globals/RunningPikachuController/&lt;&gt;buildTextLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="36" lineNum="43" parent="globals/RunningPikachuController" pc="268437954" symbol="&lt;globals/RunningPikachuController/&lt;&gt;buildTextLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="36" lineNum="44" parent="globals/RunningPikachuController" pc="268437979" symbol="&lt;globals/RunningPikachuController/&lt;&gt;buildTextLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="36" lineNum="46" parent="globals/RunningPikachuController" pc="268437989" symbol="&lt;globals/RunningPikachuController/&lt;&gt;buildTextLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="36" lineNum="55" parent="globals/RunningPikachuController" pc="268438053" symbol="&lt;globals/RunningPikachuController/&lt;&gt;buildTextLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="36" lineNum="56" parent="globals/RunningPikachuController" pc="268438083" symbol="&lt;globals/RunningPikachuController/&lt;&gt;buildTextLayer&gt;"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="37" lineNum="59" parent="globals/RunningPikachuController" pc="268438087" symbol="getTextLayer"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="37" lineNum="60" parent="globals/RunningPikachuController" pc="268438091" symbol="getTextLayer"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="38" lineNum="64" parent="globals/RunningPikachuController" pc="268438101" symbol="play"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="38" lineNum="65" parent="globals/RunningPikachuController" pc="268438105" symbol="play"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="38" lineNum="66" parent="globals/RunningPikachuController" pc="268438117" symbol="play"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="38" lineNum="67" parent="globals/RunningPikachuController" pc="268438147" symbol="play"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="38" lineNum="68" parent="globals/RunningPikachuController" pc="268438167" symbol="play"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="38" lineNum="69" parent="globals/RunningPikachuController" pc="268438207" symbol="play"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="39" lineNum="73" parent="globals/RunningPikachuController" pc="268438221" symbol="loop"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="39" lineNum="74" parent="globals/RunningPikachuController" pc="268438225" symbol="loop"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="39" lineNum="75" parent="globals/RunningPikachuController" pc="268438253" symbol="loop"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="39" lineNum="77" parent="globals/RunningPikachuController" pc="268438268" symbol="loop"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="40" lineNum="81" parent="globals/RunningPikachuController" pc="268438309" symbol="stop"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="40" lineNum="82" parent="globals/RunningPikachuController" pc="268438313" symbol="stop"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="40" lineNum="83" parent="globals/RunningPikachuController" pc="268438324" symbol="stop"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="40" lineNum="84" parent="globals/RunningPikachuController" pc="268438342" symbol="stop"/>
+<entry filename="/Users/winx/Documents/runpikarun/source/RunningPikachuController.mc" id="41" lineNum="3" parent="globals/RunningPikachuController" pc="268438690" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="43" lineNum="2" parent="globals/Rez/Drawables" pc="268438684" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="44" lineNum="10" parent="globals/Rez/Fonts" pc="268438686" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="45" lineNum="12" parent="globals/Rez/JsonData" pc="268438688" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="46" lineNum="21" parent="globals/Rez/Layouts" pc="268438356" symbol="WatchFace"/>
+<entry filename="Rez" id="46" lineNum="23" parent="globals/Rez/Layouts" pc="268438368" symbol="WatchFace"/>
+<entry filename="Rez" id="46" lineNum="24" parent="globals/Rez/Layouts" pc="268438392" symbol="WatchFace"/>
+<entry filename="Rez" id="46" lineNum="26" parent="globals/Rez/Layouts" pc="268438555" symbol="WatchFace"/>
+<entry filename="Rez" id="47" lineNum="14" parent="globals/Rez/Layouts" pc="268438687" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="48" lineNum="31" parent="globals/Rez/Menus" pc="268438685" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="49" lineNum="33" parent="globals/Rez/Strings" pc="268438689" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="50" lineNum="1" parent="globals/Rez" pc="268438660" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="50" lineNum="1" parent="globals/Rez" pc="268438660" symbol="&lt;init&gt;"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="10" object="true" symbol="runpikarunApp"/>
 <entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="25" method="true" symbol="&lt;globals/runpikarunView/&lt;&gt;getSteps&gt;"/>
 <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
 <entry field="true" id="8391333" symbol="delegate"/>
 <entry id="4" module="true" symbol="globals/Rez/Menus"/>
 <entry id="11" object="true" symbol="RunningPikachuDelegate"/>
 <entry id="14" method="true" symbol="setController"/>
-<entry field="true" id="30" symbol="pikachu_running"/>
+<entry field="true" id="32" symbol="pikachu_running"/>
 <entry id="8389683" method="true" symbol="onSettingsChanged"/>
-<entry field="true" id="33" symbol="ColorRed"/>
-<entry field="true" id="37" symbol="MilitaryFormatTitle"/>
+<entry field="true" id="35" symbol="ColorRed"/>
+<entry field="true" id="39" symbol="MilitaryFormatTitle"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-<entry field="true" id="42" symbol="&lt;globals/RunningPikachuController/&lt;&gt;_textLayer&gt;"/>
-<entry field="true" id="32" symbol="ColorBlue"/>
-<entry field="true" id="40" symbol="AppName"/>
+<entry field="true" id="44" symbol="&lt;globals/RunningPikachuController/&lt;&gt;_textLayer&gt;"/>
+<entry field="true" id="34" symbol="ColorBlue"/>
+<entry field="true" id="42" symbol="AppName"/>
 <entry id="9" object="true" symbol="runpikarunView"/>
-<entry id="46" method="true" symbol="&lt;globals/RunningPikachuController/&lt;&gt;buildTextLayer&gt;"/>
+<entry id="48" method="true" symbol="&lt;globals/RunningPikachuController/&lt;&gt;buildTextLayer&gt;"/>
 <entry id="8" module="true" symbol="globals/Rez/Strings"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="8388912" symbol="steps"/>
 <entry id="8388631" module="true" symbol="Activity"/>
-<entry id="48" method="true" symbol="loop"/>
+<entry id="50" method="true" symbol="loop"/>
 <entry id="8388648" module="true" symbol="WatchUi"/>
 <entry id="2" module="true" symbol="globals/Rez"/>
 <entry field="true" id="16" symbol="_animationDelegate"/>
-<entry field="true" id="28" symbol="heart"/>
+<entry field="true" id="30" symbol="heart"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
 <entry field="true" id="8389065" symbol="locY"/>
 <entry field="true" id="8389064" symbol="locX"/>
+<entry field="true" id="20" symbol="steps_bmp"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="8389348" symbol="font"/>
 <entry field="true" id="8389067" symbol="height"/>
-<entry id="26" module="true" symbol="Menus"/>
+<entry id="28" module="true" symbol="Menus"/>
 <entry id="8389275" method="true" symbol="getApp"/>
-<entry field="true" id="36" symbol="ColorDarkGray"/>
+<entry field="true" id="38" symbol="ColorDarkGray"/>
 <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
 <entry field="true" id="8389066" symbol="width"/>
 <entry id="8391445" symbol="visibility"/>
@@ -194,96 +207,101 @@
 <entry id="8389376" method="true" symbol="onEnterSleep"/>
 <entry field="true" id="8389063" symbol="identifier"/>
 <entry id="8389349" symbol="justification"/>
-<entry id="20" method="true" symbol="&lt;globals/runpikarunView/&lt;&gt;getTimeString&gt;"/>
-<entry field="true" id="39" symbol="ColorWhite"/>
+<entry id="21" method="true" symbol="&lt;globals/runpikarunView/&lt;&gt;getTimeString&gt;"/>
+<entry field="true" id="41" symbol="ColorWhite"/>
 <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
-<entry field="true" id="38" symbol="ColorBlack"/>
+<entry field="true" id="40" symbol="ColorBlack"/>
 <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
 <entry id="8391314" method="true" symbol="onAnimationEvent"/>
-<entry id="23" method="true" symbol="&lt;globals/runpikarunView/&lt;&gt;getBatteryPercentage&gt;"/>
+<entry id="24" method="true" symbol="&lt;globals/runpikarunView/&lt;&gt;getBatteryPercentage&gt;"/>
 <entry id="8388699" method="true" symbol="stop"/>
 <entry field="true" id="19" symbol="heart_bmp"/>
 <entry id="8389377" method="true" symbol="onExitSleep"/>
 <entry id="8388644" module="true" symbol="System"/>
 <entry field="true" id="17" symbol="_playing"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
-<entry id="21" method="true" symbol="&lt;globals/runpikarunView/&lt;&gt;getDate&gt;"/>
+<entry id="22" method="true" symbol="&lt;globals/runpikarunView/&lt;&gt;getDate&gt;"/>
 <entry id="8388640" module="true" symbol="Lang"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
 <entry id="8389068" method="true" symbol="draw"/>
-<entry field="true" id="29" symbol="LauncherIcon"/>
+<entry field="true" id="31" symbol="LauncherIcon"/>
 <entry id="8388610" symbol="statics"/>
 <entry id="8389123" method="true" symbol="onShow"/>
-<entry id="44" method="true" symbol="handleOnShow"/>
+<entry id="46" method="true" symbol="handleOnShow"/>
 <entry field="true" id="18" symbol="bolt_bmp"/>
 <entry id="8389350" module="true" symbol="globals"/>
-<entry field="true" id="35" symbol="BackgroundColorTitle"/>
+<entry field="true" id="37" symbol="BackgroundColorTitle"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
 <entry id="8390146" module="true" object="true" symbol="Background"/>
-<entry id="47" method="true" symbol="getTextLayer"/>
-<entry field="true" id="41" symbol="&lt;globals/RunningPikachuController/&lt;&gt;_animation&gt;"/>
+<entry id="49" method="true" symbol="getTextLayer"/>
+<entry field="true" id="43" symbol="&lt;globals/RunningPikachuController/&lt;&gt;_animation&gt;"/>
 <entry id="8388702" method="true" symbol="initialize"/>
 <entry id="8389279" method="true" symbol="onStart"/>
 <entry id="12" object="true" symbol="RunningPikachuController"/>
-<entry field="true" id="27" symbol="bolt"/>
-<entry field="true" id="31" symbol="ColorLightGray"/>
+<entry field="true" id="29" symbol="bolt"/>
+<entry field="true" id="33" symbol="ColorLightGray"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry id="8389347" symbol="color"/>
-<entry id="24" method="true" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
-<entry field="true" id="34" symbol="ForegroundColorTitle"/>
-<entry field="true" id="43" symbol="&lt;globals/RunningPikachuController/&lt;&gt;_playing&gt;"/>
+<entry id="26" method="true" symbol="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;"/>
+<entry field="true" id="36" symbol="ForegroundColorTitle"/>
+<entry field="true" id="45" symbol="&lt;globals/RunningPikachuController/&lt;&gt;_playing&gt;"/>
 <entry field="true" id="15" symbol="pikaAnimation"/>
 <entry field="true" id="13" symbol="_controller"/>
-<entry id="25" module="true" symbol="Layouts"/>
-<entry id="22" method="true" symbol="&lt;globals/runpikarunView/&lt;&gt;getHeartRate&gt;"/>
+<entry id="27" module="true" symbol="Layouts"/>
+<entry id="23" method="true" symbol="&lt;globals/runpikarunView/&lt;&gt;getHeartRate&gt;"/>
 <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
 <entry id="8389125" method="true" symbol="onHide"/>
-<entry id="45" method="true" symbol="handleOnHide"/>
+<entry id="47" method="true" symbol="handleOnHide"/>
 <entry id="8388635" module="true" symbol="Application"/>
 </symbolTable>
 <localVars>
 <entry endPc="268435500" name="dictionary" stackId="1" startPc="268435460"/>
 <entry arg="true" endPc="268435567" name="dc" stackId="1" startPc="268435502"/>
-<entry arg="true" endPc="268435711" name="dc" stackId="1" startPc="268435707"/>
-<entry endPc="268435921" name="hour" stackId="3" startPc="268435759"/>
-<entry endPc="268435921" name="clockTime" stackId="1" startPc="268435759"/>
-<entry endPc="268435921" name="info" stackId="2" startPc="268435759"/>
-<entry endPc="268436104" name="month_str" stackId="4" startPc="268435927"/>
-<entry endPc="268436104" name="day" stackId="2" startPc="268435927"/>
-<entry endPc="268436104" name="date" stackId="1" startPc="268435927"/>
-<entry endPc="268436104" name="month" stackId="3" startPc="268435927"/>
-<entry endPc="268436164" name="heartrate" stackId="2" startPc="268436110"/>
-<entry endPc="268436164" name="activity" stackId="1" startPc="268436110"/>
-<entry endPc="268436251" name="batteryRaw" stackId="2" startPc="268436170"/>
-<entry endPc="268436251" name="stats" stackId="1" startPc="268436170"/>
-<entry endPc="268436960" name="batteryString" stackId="6" startPc="268436257"/>
-<entry endPc="268436960" name="height" stackId="3" startPc="268436257"/>
-<entry endPc="268436960" name="dc" stackId="1" startPc="268436257"/>
-<entry endPc="268436960" name="timeString" stackId="4" startPc="268436257"/>
-<entry endPc="268436960" name="width" stackId="2" startPc="268436257"/>
-<entry endPc="268436960" name="dateString" stackId="5" startPc="268436257"/>
-<entry endPc="268436960" name="hrString" stackId="7" startPc="268436257"/>
-<entry arg="true" endPc="268437027" name="dc" stackId="1" startPc="268436962"/>
-<entry arg="true" endPc="268437126" name="state" stackId="1" startPc="268437122"/>
-<entry arg="true" endPc="268437131" name="state" stackId="1" startPc="268437127"/>
-<entry arg="true" endPc="268437261" name="controller" stackId="1" startPc="268437247"/>
-<entry arg="true" endPc="268437375" name="options" stackId="2" startPc="268437262"/>
-<entry arg="true" endPc="268437375" name="event" stackId="1" startPc="268437262"/>
-<entry arg="true" endPc="268437559" name="view" stackId="1" startPc="268437391"/>
-<entry arg="true" endPc="268437594" name="view" stackId="1" startPc="268437560"/>
-<entry endPc="268437749" name="height" stackId="3" startPc="268437599"/>
-<entry endPc="268437749" name="options" stackId="4" startPc="268437599"/>
-<entry endPc="268437749" name="width" stackId="2" startPc="268437599"/>
-<entry endPc="268437749" name="textLayer" stackId="5" startPc="268437599"/>
-<entry endPc="268437749" name="info" stackId="1" startPc="268437599"/>
-<entry endPc="268438245" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268438032"/>
-<entry endPc="268438245" name="rez_cmp_local_custom_drawable_71717614815861779481" stackId="2" startPc="268438032"/>
-<entry arg="true" endPc="268438246" name="dc" stackId="1" startPc="268438020"/>
+<entry arg="true" endPc="268435754" name="dc" stackId="1" startPc="268435750"/>
+<entry endPc="268435964" name="hour" stackId="3" startPc="268435802"/>
+<entry endPc="268435964" name="clockTime" stackId="1" startPc="268435802"/>
+<entry endPc="268435964" name="info" stackId="2" startPc="268435802"/>
+<entry endPc="268436222" name="month_str" stackId="4" startPc="268435970"/>
+<entry endPc="268436222" name="dayofweek_str" stackId="5" startPc="268435970"/>
+<entry endPc="268436222" name="day" stackId="2" startPc="268435970"/>
+<entry endPc="268436222" name="date" stackId="1" startPc="268435970"/>
+<entry endPc="268436222" name="dayofweek" stackId="6" startPc="268435970"/>
+<entry endPc="268436222" name="month" stackId="3" startPc="268435970"/>
+<entry endPc="268436282" name="heartrate" stackId="2" startPc="268436228"/>
+<entry endPc="268436282" name="activity" stackId="1" startPc="268436228"/>
+<entry endPc="268436369" name="batteryRaw" stackId="2" startPc="268436288"/>
+<entry endPc="268436369" name="stats" stackId="1" startPc="268436288"/>
+<entry endPc="268436411" name="info" stackId="1" startPc="268436375"/>
+<entry endPc="268437296" name="batteryString" stackId="7" startPc="268436417"/>
+<entry endPc="268437296" name="height" stackId="3" startPc="268436417"/>
+<entry endPc="268437296" name="dc" stackId="1" startPc="268436417"/>
+<entry endPc="268437296" name="timeString" stackId="4" startPc="268436417"/>
+<entry endPc="268437296" name="width" stackId="2" startPc="268436417"/>
+<entry endPc="268437296" name="dateString" stackId="5" startPc="268436417"/>
+<entry endPc="268437296" name="hrString" stackId="8" startPc="268436417"/>
+<entry endPc="268437296" name="stepString" stackId="6" startPc="268436417"/>
+<entry arg="true" endPc="268437363" name="dc" stackId="1" startPc="268437298"/>
+<entry arg="true" endPc="268437462" name="state" stackId="1" startPc="268437458"/>
+<entry arg="true" endPc="268437467" name="state" stackId="1" startPc="268437463"/>
+<entry arg="true" endPc="268437597" name="controller" stackId="1" startPc="268437583"/>
+<entry arg="true" endPc="268437711" name="options" stackId="2" startPc="268437598"/>
+<entry arg="true" endPc="268437711" name="event" stackId="1" startPc="268437598"/>
+<entry arg="true" endPc="268437895" name="view" stackId="1" startPc="268437727"/>
+<entry arg="true" endPc="268437930" name="view" stackId="1" startPc="268437896"/>
+<entry endPc="268438085" name="height" stackId="3" startPc="268437935"/>
+<entry endPc="268438085" name="options" stackId="4" startPc="268437935"/>
+<entry endPc="268438085" name="width" stackId="2" startPc="268437935"/>
+<entry endPc="268438085" name="textLayer" stackId="5" startPc="268437935"/>
+<entry endPc="268438085" name="info" stackId="1" startPc="268437935"/>
+<entry endPc="268438581" name="rez_cmp_local_custom_drawable_19178600923895525931" stackId="2" startPc="268438368"/>
+<entry endPc="268438581" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268438368"/>
+<entry arg="true" endPc="268438582" name="dc" stackId="1" startPc="268438356"/>
 </localVars>
 <annotations>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="bolt"/>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="heart"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="steps"/>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="pikachu_running"/>
 <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorLightGray"/>
@@ -303,14 +321,14 @@
 <dataEntry label="globals/runpikarunApp" offset="253" parentId="globals" symbolId="runpikarunApp" type="class"/>
 <dataEntry label="globals/Background" offset="332" parentId="globals" symbolId="Background" type="class"/>
 <dataEntry label="globals/runpikarunView" offset="387" parentId="globals" symbolId="runpikarunView" type="class"/>
-<dataEntry label="globals/Rez" offset="562" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry label="globals/Rez/Drawables" offset="641" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry label="globals/Rez/Menus" offset="704" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry label="globals/Rez/Fonts" offset="735" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry label="globals/Rez/Layouts" offset="766" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry label="globals/Rez/JsonData" offset="805" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry label="globals/Rez/Strings" offset="836" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry label="globals/RunningPikachuController" offset="947" parentId="globals" symbolId="RunningPikachuController" type="class"/>
+<dataEntry label="globals/Rez" offset="578" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/Rez/Drawables" offset="657" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="728" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="759" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="790" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="829" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="860" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/RunningPikachuController" offset="971" parentId="globals" symbolId="RunningPikachuController" type="class"/>
 </dataEntryOffsetMappings>
 <functions>
 <functionEntry accessMode="public" endPc="268435501" name="initialize" parent="Background" startPc="268435456">
@@ -320,140 +338,143 @@
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438304" name="&lt;init&gt;" parent="Background" startPc="268438286">
+<functionEntry accessMode="protected" endPc="268438640" name="&lt;init&gt;" parent="Background" startPc="268438622">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435706" name="initialize" parent="runpikarunView" startPc="268435568">
+<functionEntry accessMode="public" endPc="268435749" name="initialize" parent="runpikarunView" startPc="268435568">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435711" name="onLayout" parent="runpikarunView" startPc="268435707">
+<functionEntry accessMode="public" endPc="268435754" name="onLayout" parent="runpikarunView" startPc="268435750">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435754" name="onShow" parent="runpikarunView" startPc="268435712">
+<functionEntry accessMode="public" endPc="268435797" name="onShow" parent="runpikarunView" startPc="268435755">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="private" endPc="268435922" name="&lt;globals/runpikarunView/&lt;&gt;getTimeString&gt;" parent="runpikarunView" startPc="268435755">
+<functionEntry accessMode="private" endPc="268435965" name="&lt;globals/runpikarunView/&lt;&gt;getTimeString&gt;" parent="runpikarunView" startPc="268435798">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="private" endPc="268436105" name="&lt;globals/runpikarunView/&lt;&gt;getDate&gt;" parent="runpikarunView" startPc="268435923">
+<functionEntry accessMode="private" endPc="268436223" name="&lt;globals/runpikarunView/&lt;&gt;getDate&gt;" parent="runpikarunView" startPc="268435966">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="private" endPc="268436165" name="&lt;globals/runpikarunView/&lt;&gt;getHeartRate&gt;" parent="runpikarunView" startPc="268436106">
+<functionEntry accessMode="private" endPc="268436283" name="&lt;globals/runpikarunView/&lt;&gt;getHeartRate&gt;" parent="runpikarunView" startPc="268436224">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="private" endPc="268436252" name="&lt;globals/runpikarunView/&lt;&gt;getBatteryPercentage&gt;" parent="runpikarunView" startPc="268436166">
+<functionEntry accessMode="private" endPc="268436370" name="&lt;globals/runpikarunView/&lt;&gt;getBatteryPercentage&gt;" parent="runpikarunView" startPc="268436284">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="private" endPc="268436961" name="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;" parent="runpikarunView" startPc="268436253">
+<functionEntry accessMode="private" endPc="268436412" name="&lt;globals/runpikarunView/&lt;&gt;getSteps&gt;" parent="runpikarunView" startPc="268436371">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437027" name="onUpdate" parent="runpikarunView" startPc="268436962">
+<functionEntry accessMode="private" endPc="268437297" name="&lt;globals/runpikarunView/&lt;&gt;updateTimeLayer&gt;" parent="runpikarunView" startPc="268436413">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437363" name="onUpdate" parent="runpikarunView" startPc="268437298">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437052" name="onHide" parent="runpikarunView" startPc="268437028">
+<functionEntry accessMode="public" endPc="268437388" name="onHide" parent="runpikarunView" startPc="268437364">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437075" name="onExitSleep" parent="runpikarunView" startPc="268437053">
+<functionEntry accessMode="public" endPc="268437411" name="onExitSleep" parent="runpikarunView" startPc="268437389">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437098" name="onEnterSleep" parent="runpikarunView" startPc="268437076">
+<functionEntry accessMode="public" endPc="268437434" name="onEnterSleep" parent="runpikarunView" startPc="268437412">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438323" name="&lt;init&gt;" parent="runpikarunView" startPc="268438305">
+<functionEntry accessMode="protected" endPc="268438659" name="&lt;init&gt;" parent="runpikarunView" startPc="268438641">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437121" name="initialize" parent="runpikarunApp" startPc="268437099">
+<functionEntry accessMode="public" endPc="268437457" name="initialize" parent="runpikarunApp" startPc="268437435">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437126" name="onStart" parent="runpikarunApp" startPc="268437122">
+<functionEntry accessMode="public" endPc="268437462" name="onStart" parent="runpikarunApp" startPc="268437458">
 <param id="state"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437131" name="onStop" parent="runpikarunApp" startPc="268437127">
+<functionEntry accessMode="public" endPc="268437467" name="onStop" parent="runpikarunApp" startPc="268437463">
 <param id="state"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437173" name="getInitialView" parent="runpikarunApp" startPc="268437132">
+<functionEntry accessMode="public" endPc="268437509" name="getInitialView" parent="runpikarunApp" startPc="268437468">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437194" name="onSettingsChanged" parent="runpikarunApp" startPc="268437174">
+<functionEntry accessMode="public" endPc="268437530" name="onSettingsChanged" parent="runpikarunApp" startPc="268437510">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438285" name="&lt;init&gt;" parent="runpikarunApp" startPc="268438267">
+<functionEntry accessMode="protected" endPc="268438621" name="&lt;init&gt;" parent="runpikarunApp" startPc="268438603">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437223" name="getApp" startPc="268437195">
+<functionEntry accessMode="public" endPc="268437559" name="getApp" startPc="268437531">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437246" name="initialize" parent="RunningPikachuDelegate" startPc="268437224">
+<functionEntry accessMode="public" endPc="268437582" name="initialize" parent="RunningPikachuDelegate" startPc="268437560">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437261" name="setController" parent="RunningPikachuDelegate" startPc="268437247">
+<functionEntry accessMode="public" endPc="268437597" name="setController" parent="RunningPikachuDelegate" startPc="268437583">
 <param id="controller"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437375" name="onAnimationEvent" parent="RunningPikachuDelegate" startPc="268437262">
+<functionEntry accessMode="public" endPc="268437711" name="onAnimationEvent" parent="RunningPikachuDelegate" startPc="268437598">
 <param id="event"/>
 <param id="options"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438266" name="&lt;init&gt;" parent="RunningPikachuDelegate" startPc="268438248">
+<functionEntry accessMode="protected" endPc="268438602" name="&lt;init&gt;" parent="RunningPikachuDelegate" startPc="268438584">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437390" name="initialize" parent="RunningPikachuController" startPc="268437376">
+<functionEntry accessMode="public" endPc="268437726" name="initialize" parent="RunningPikachuController" startPc="268437712">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437559" name="handleOnShow" parent="RunningPikachuController" startPc="268437391">
+<functionEntry accessMode="public" endPc="268437895" name="handleOnShow" parent="RunningPikachuController" startPc="268437727">
 <param id="view"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437594" name="handleOnHide" parent="RunningPikachuController" startPc="268437560">
+<functionEntry accessMode="public" endPc="268437930" name="handleOnHide" parent="RunningPikachuController" startPc="268437896">
 <param id="view"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="private" endPc="268437750" name="&lt;globals/RunningPikachuController/&lt;&gt;buildTextLayer&gt;" parent="RunningPikachuController" startPc="268437595">
+<functionEntry accessMode="private" endPc="268438086" name="&lt;globals/RunningPikachuController/&lt;&gt;buildTextLayer&gt;" parent="RunningPikachuController" startPc="268437931">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437764" name="getTextLayer" parent="RunningPikachuController" startPc="268437751">
+<functionEntry accessMode="public" endPc="268438100" name="getTextLayer" parent="RunningPikachuController" startPc="268438087">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437884" name="play" parent="RunningPikachuController" startPc="268437765">
+<functionEntry accessMode="public" endPc="268438220" name="play" parent="RunningPikachuController" startPc="268438101">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437972" name="loop" parent="RunningPikachuController" startPc="268437885">
+<functionEntry accessMode="public" endPc="268438308" name="loop" parent="RunningPikachuController" startPc="268438221">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438019" name="stop" parent="RunningPikachuController" startPc="268437973">
+<functionEntry accessMode="public" endPc="268438355" name="stop" parent="RunningPikachuController" startPc="268438309">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438354" name="&lt;init&gt;" parent="RunningPikachuController" startPc="268438354">
+<functionEntry accessMode="protected" endPc="268438690" name="&lt;init&gt;" parent="RunningPikachuController" startPc="268438690">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438348" name="&lt;init&gt;" parent="Drawables" startPc="268438348">
+<functionEntry accessMode="protected" endPc="268438684" name="&lt;init&gt;" parent="Drawables" startPc="268438684">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438350" name="&lt;init&gt;" parent="Fonts" startPc="268438350">
+<functionEntry accessMode="protected" endPc="268438686" name="&lt;init&gt;" parent="Fonts" startPc="268438686">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438352" name="&lt;init&gt;" parent="JsonData" startPc="268438352">
+<functionEntry accessMode="protected" endPc="268438688" name="&lt;init&gt;" parent="JsonData" startPc="268438688">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438246" name="WatchFace" parent="Layouts" startPc="268438020">
+<functionEntry accessMode="public" endPc="268438582" name="WatchFace" parent="Layouts" startPc="268438356">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438351" name="&lt;init&gt;" parent="Layouts" startPc="268438351">
+<functionEntry accessMode="protected" endPc="268438687" name="&lt;init&gt;" parent="Layouts" startPc="268438687">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438349" name="&lt;init&gt;" parent="Menus" startPc="268438349">
+<functionEntry accessMode="protected" endPc="268438685" name="&lt;init&gt;" parent="Menus" startPc="268438685">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438353" name="&lt;init&gt;" parent="Strings" startPc="268438353">
+<functionEntry accessMode="protected" endPc="268438689" name="&lt;init&gt;" parent="Strings" startPc="268438689">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268438347" name="&lt;init&gt;" parent="Rez" startPc="268438324">
+<functionEntry accessMode="protected" endPc="268438683" name="&lt;init&gt;" parent="Rez" startPc="268438660">
 <documentation/>
 </functionEntry>
 </functions>

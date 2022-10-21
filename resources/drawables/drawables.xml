@@ -2,4 +2,5 @@
     <bitmap id="LauncherIcon" filename="launcher_icon.png" />
     <bitmap id="bolt" filename="bolt-smol.png" />
     <bitmap id="heart" filename="heart-smol.png" />
+    <bitmap id="steps" filename="footsteps-smol.png" />
 </drawables>
