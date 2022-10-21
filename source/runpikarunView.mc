@@ -111,8 +111,8 @@ class runpikarunView extends WatchUi.WatchFace {
         dc.drawBitmap((width / 2) - 70, (height / 2) - 100, steps_bmp);
         var stepString = getSteps();
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
-        dc.drawText((width / 2) - 25, (height / 2) - 85, Graphics.FONT_TINY, stepString,
-            Graphics.TEXT_JUSTIFY_CENTER | Graphics.TEXT_JUSTIFY_VCENTER);
+        dc.drawText((width / 2) - 30, (height / 2) - 85, Graphics.FONT_TINY, stepString,
+            Graphics.TEXT_JUSTIFY_LEFT | Graphics.TEXT_JUSTIFY_VCENTER);
 
         // Draw the Battery Percentage on the sides
         dc.drawBitmap((width / 6) - 20, (height / 2) + 25, bolt_bmp);
